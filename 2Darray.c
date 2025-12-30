@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Adarsh Kumar ERP ID - 10068 //
 int main() {
     int r, c, i, j;
     int arr[10][10];  
